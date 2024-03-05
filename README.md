@@ -2,7 +2,7 @@
 
 本仓库基于仓库 [awesome-mac](https://github.com/jaywcjlove/awesome-mac) ，为方便观看文档，特建此库~
 
-`链接 👉` [https://ripperhe.com/awesome-mac-html/](https://ripperhe.com/awesome-mac-html/)
+`链接 👉` [https://ripperhe.github.io/awesome-mac-html](https://ripperhe.github.io/awesome-mac-html)
 
 ## Screenshot
 
